@@ -1,0 +1,3 @@
+[submodule "TenSimpleRulesModeling"]
+	path = TenSimpleRulesModeling
+	url = https://github.com/AnneCollins/TenSimpleRulesModeling.git
